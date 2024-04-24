@@ -16,8 +16,8 @@ https://adarshjportfolio.netlify.app/
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **CEC CONNECT**  | CEC CONNECT is a fully functional social media app for students and teacher interaction with multiple features built with flutter and dart.                                             | [Hosted Link 1](https://example.com)    | [Github Repo](https://github.com/adarsh4j/CEC_CONNECT)             |
-| **Hellogram**  | Hellogram is an interactive social media application which new features                                             | [Hosted Link 2](https://example.com)    | [Github Repo](https://github.com/adarsh4j/HELLOGRAM-APP)           |
+| **CEC CONNECT**  | CEC CONNECT is a fully functional social media app for students and teacher interaction with multiple features built with flutter and dart.                                             | Android App    | [Github Repo](https://github.com/adarsh4j/CEC_CONNECT)             |
+| **Hellogram**  | Hellogram is an interactive social media application which new features                                             | Android App    | [Github Repo](https://github.com/adarsh4j/HELLOGRAM-APP)           |
 
 
 #### Competitive Website Profiles:
